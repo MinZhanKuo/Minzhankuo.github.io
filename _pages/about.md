@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Min-Zhan(Vick)Kuo"
+title: "AAAAA"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
